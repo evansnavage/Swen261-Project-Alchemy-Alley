@@ -19,3 +19,10 @@ An online E-store system built in Java 21=> and Angular 17
 - Angular CLI
 
 # Screengrabs
+![A screenshot of the login page for the webstore.](/alchemy_alley_login.png)
+![A screenshot of the front page for the webstore.](/alchemy_alley_front_page.png)
+![A screenshot of the checkout page for the webstore.](/alchemy_alley_checkout.png)
+![A screenshot showing sorting by categories.](/alchemy_alley_categories.png)
+![A screenshot of the cart for the webstore.](/alchemy_alley_cart.png)
+![A screenshot of the admin page for the webstore.](/alchemy_alley_admin.png)
+![A screenshot showing unlocking a new product in the store.](/alchemy_alley_unlock.png)
