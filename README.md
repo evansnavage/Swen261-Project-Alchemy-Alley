@@ -1,4 +1,7 @@
-This repo serves to preserve our semester long assignment for Introduction to Software Engineering at RIT, over ~13 weeks the 5 of us built a REST API, interfacting with JSON data, in Java with Spring, and a frontend in Angular. The project was formatted as 4 sprints, one of which was no code, the release tagged 3.2 is code complete, but missing documentation that would be completed in the final sprint. 
+This repo serves to preserve our semester long assignment for Introduction to Software Engineering at RIT, over ~13 weeks the 5 of us built a REST API, interfacting with JSON data, in Java with Spring, and a frontend in Angular. The project was formatted as 4 sprints, one of which was no code, the release tagged 3.2 is code complete, but missing documentation that would be completed in the final sprint.
+
+# Design Document
+https://github.com/evansnavage/Swen261-Project-Alchemy-Alley/blob/main/docs/DesignDoc.pdf
 
 # E-Store:  Alchemy Alley
 
